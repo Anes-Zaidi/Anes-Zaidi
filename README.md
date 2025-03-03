@@ -8,9 +8,13 @@
 - 📚 Learning AI & Machine Learning  
 - 🎯 Passionate about problem-solving
 
-- ### 🚀 Tech Stack  
-<p >
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind" />
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50">
+  Tech Stack
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,github,numpy,pandas,scikit-learn" />
 </p>
 
 ### 🔥 Most Used Languages  
