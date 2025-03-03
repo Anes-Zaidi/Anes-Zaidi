@@ -17,8 +17,7 @@
 
 
 ### 📊 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anes-Zaidi=your-github-username&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anes-Zaidi&layout=compact&theme=radical)
 
 
 ### 📫 Connect with Me  
