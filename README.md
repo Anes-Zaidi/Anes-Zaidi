@@ -7,7 +7,7 @@
 - 🏗 Building engaging user interfaces  
 - 📚 Learning AI & Machine Learning  
 - 🎯 Passionate about problem-solving
-- 
+
 <h2>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50">
   Tech Stack
