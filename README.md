@@ -15,8 +15,9 @@
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
 
+
 ### 📊 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anes-Zaidi=your-github-username&layout=compact&theme=radical)
 
 
 
