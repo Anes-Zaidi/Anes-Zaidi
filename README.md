@@ -6,7 +6,15 @@
 ### 🚀 About Me  
 - 🏗 Building engaging user interfaces  
 - 📚 Learning AI & Machine Learning  
-- 🎯 Passionate about problem-solving  
+- 🎯 Passionate about problem-solving
+
+- ### 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
 
 ### 📊 GitHub Stats  
 ![Anes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
