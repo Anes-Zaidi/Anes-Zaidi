@@ -15,9 +15,10 @@
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
 
+### 📊 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-### 📊 GitHub Stats  
-![Anes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
 
 ### 📫 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/an4s.zz)
