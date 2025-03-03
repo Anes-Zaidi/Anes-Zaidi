@@ -8,13 +8,13 @@
 - 📚 Learning AI & Machine Learning  
 - 🎯 Passionate about problem-solving
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50">
+<h2>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50">
   Tech Stack
 </h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,github,numpy,pandas,scikit-learn" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,github,numpy,pandas" >
 </p>
 
 ### 🔥 Most Used Languages  
