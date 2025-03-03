@@ -11,8 +11,6 @@
 - ### 🚀 Tech Stack  
 <p >
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
 
 ### 🔥 Most Used Languages  
