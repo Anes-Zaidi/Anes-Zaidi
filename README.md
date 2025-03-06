@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anes Nasrallah Zaidi  
+ # 👋 Hello, I'm Anes Nasrallah Zaidi  
 🎓 CS Student at ESTIN | 💻 Frontend Developer | 🤖 AI Enthusiast  
 
 ---
@@ -21,7 +21,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anes-Zaidi&layout=compact&theme=radical)
 
 ### 📫 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/an4s.zz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an_zaidi@estin.dz)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/an4s.zz)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an_zaidi@estin.dz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anes-zaidi-15448a351/)
 
