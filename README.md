@@ -1,4 +1,4 @@
- # 👋 Hello, I'm Anes Nasrallah Zaidi  
+ # 👋 Hello World, I'm Anes Nasrallah Zaidi  
 🎓 CS Student at ESTIN | 💻 Frontend Developer | 🤖 AI Enthusiast  
 
 ---
