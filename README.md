@@ -14,7 +14,7 @@
 </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,github,c,vscode" >
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react,tailwind,github,c,vscode" >
 </p>
 
 ### 🔥 Most Used Languages  
